@@ -42,4 +42,4 @@ npm run preview
 
 ## Git
 
-Work happens on feature branch that take from `develop`; PRs target `develop`.
+Work happens on feature branches taken from `develop`; PRs target `develop`.
